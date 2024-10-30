@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshgupta0&label=Profile%20views&color=0e75b6&style=flat" alt="harshgupta0" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, firebase, Node.js, Express, Mongodb and more related tech stuff.**
+- 🌱 I’m currently learning **Flutter, Firebase, Node.js, Express, Mongodb and more related tech stuff.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshGupta0](https://github.com/HarshGupta0)
 
-- 💬 Ask me about **Flutter , firebase and related tech.**
+- 💬 Ask me about **Flutter, Firebase and related tech.**
 
 - 📫 How to reach me **iharshgupta.07@gmail.com**
 
@@ -26,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshgupta0&show_icons=true&locale=en" alt="harshgupta0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshgupta0&" alt="harshgupta0" /></p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=AKsHaT123456A&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshgupta0&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
