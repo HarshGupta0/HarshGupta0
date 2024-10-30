@@ -93,4 +93,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/harshgupta0/harshgupta0/output/snakeHit.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/harshgupta0/harshgupta0/output/snake.svg" alt="Snake animation" />
